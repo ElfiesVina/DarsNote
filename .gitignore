@@ -1,4 +1,3 @@
-node_modules
 
 # Dependencies
 node_modules/
@@ -11,7 +10,7 @@ out/
 build/
 dist/
 
-# Secrets and environment variables
+# Environment variables and secrets
 .env
 .env.*
 !.env.example
